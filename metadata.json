@@ -1,0 +1,7 @@
+{
+  "name": "CyberAware - Cybersecurity Awareness Platform",
+  "description": "A comprehensive cybersecurity awareness platform featuring admin-managed content, user dashboards, and an AI-powered security chatbot to educate and protect against digital threats.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
